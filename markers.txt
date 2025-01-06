@@ -1,47 +1,44 @@
-Processing file A9GLOCDF.SFM
-Processing file 40_Matthew.usfm
-Processing file 41_Mark.usfm
-Processing file 42_Luke.usfm
-Processing file 43_John.usfm
-Processing file 44_Acts.usfm
-Processing file 45_Romans.usfm
-Processing file 46_1_Corinthians.usfm
-Processing file 47_2_Corinthians.usfm
-Processing file 48_Galatians.usfm
-Processing file 49_Ephesians.usfm
-Processing file 50_Philippians.usfm
-Processing file 51_Colossians.usfm
-Processing file 52_1_Thessalonians.usfm
-Processing file 53_2_Thessalonians.usfm
-Processing file 54_1_Timothy.usfm
-Processing file 55_2_Timothy.usfm
-Processing file 56_Titus.usfm
-Processing file 57_Philemon.usfm
-Processing file 58_Hebrews.usfm
-Processing file 59_James.usfm
-Processing file 60_1_Peter.usfm
-Processing file 61_2_Peter.usfm
-Processing file 62_1_John.usfm
-Processing file 63_2_John.usfm
-Processing file 64_3_John.usfm
-Processing file 65_Jude.usfm
-Processing file 66_Revelation.usfm
-id	28
-rem	1
-mt1	1
-p	849
-k	107
-k*	107
-xt	112
-xt*	112
-h	27
+id	30
+h	29
+toc3	29
+toc2	2
+toc1	2
+mt1	3
+ili	6
+imt1	2
+ip	77
+xt	1208
+xt*	125
+iot	2
+io1	4
+ior	4
+ior*	4
+c	320
+s1	104
+p	1438
+v	9610
+x	1083
+xo	1083
+x*	1083
+b	79
+q1	482
+f	236
+fr	40
+fk	40
+ft	40
+f*	236
+s2	3
+r	255
+m	1
+li1	20
+ms	1
+d	7
+qs	8
+qs*	8
+qc	1
 mt	27
 mt2	27
-toc3	27
-ip	69
-c	260
 s	690
-r	244
-v	7957
-f	196
-f*	196
+rem	1
+k	107
+k*	107
